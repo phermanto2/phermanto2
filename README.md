@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Paulus Hermanto (prounced: Paw-less Her-Mahn-Tow, or Paul for short)
+ My name is Paulus Hermanto (prounced: Paw-less Her-Mahn-Tow, or Paul for short)
 
 ## A little bit about me:
  🎓 Graduated with a Master's Degree in Statistics and a Bachelor's Degree in Actuarial Science with a Minor in Mathematics from University of Nebraska-Lincoln.
