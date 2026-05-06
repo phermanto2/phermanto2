@@ -4,7 +4,7 @@
 ## A little bit about me:
  🎓 Graduated with a Master's Degree in Statistics and a Bachelor's Degree in Actuarial Science with a Minor in Mathematics from University of Nebraska-Lincoln.
  
- 🏞 I currently live in Columbia, SC; where I work as a Statisitician, and a Mathematics and Statistics Instructor.
+ 🏞 I currently live in Columbia, SC; where I work as a Statisitician for the government, and a Mathematics and Statistics Instructor.
  
  🏋 Some of my hobbies and/or interests include: ice skating, travelling to national parks, playing piano, and trying out new restaurants.
 
@@ -12,7 +12,6 @@
  Tools: Advanced Microsoft Excel, R, SAS, Microsoft Access, Power Query, PowerBI, SQL, and Python.
  
  Skills: Statisticial Analysis, Data Analysis, Research, Data Cleaning, Exploratory Data Analysis, and Visualizations.
-
 
 
 <!--
