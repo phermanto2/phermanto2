@@ -6,7 +6,7 @@
  
  🏞 I currently live in Columbia, SC; where I work as a Statisitician, and a Mathematics and Statistics Instructor.
  
- 🏋 Some of my hobbies and/or interests include: travelling to national parks, playing piano, and trying out new restaurants.
+ 🏋 Some of my hobbies and/or interests include: ice skating, travelling to national parks, playing piano, and trying out new restaurants.
 
 ## 💡 Tools and Skills
  Tools: Advanced Microsoft Excel, R, SAS, Microsoft Access, Power Query, PowerBI, SQL, and Python.
